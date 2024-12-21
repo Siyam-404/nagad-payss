@@ -26,7 +26,7 @@ Welcome to the **Nagad Payment Screenshot Creator**! This tool allows users to c
 6. **PHP version**: Link format will be like this
 
 ```
-http://yourdomain.com/yourscript.php?number=01986-343907&transaction=730MGQGC&amount=9999&charge=5&total=9999
+http://yourdomain.com/yourscript.php?number=01533-969430&transaction=730MGQGC&amount=9999&charge=5&total=9999
 ```
 
 ## Features 🛠️
